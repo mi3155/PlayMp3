@@ -4,9 +4,48 @@
 ## :exclamation: Project :exclamation:
 ![image](https://user-images.githubusercontent.com/54825917/69726315-9fe15280-1163-11ea-8b76-94b373b9143e.png)
 
+## 수정사항
+- **타이머 추가** 
+
+- **그림 추가**
 
 
+#define TIMER_TIME 20<br/>
+#define TIMER_PAINT 10<br/>
+두개의 정적 변수 추가로 인해 OnTimer 변수 추가<br/>
 
+
+	switch (nIDEvent)
+	{
+	case TIMER_TIME:
+		cTime = CTime::GetCurrentTime();
+		mDay.Format(L"%04d.%02d.%02d", cTime.GetYear(), cTime.GetMonth(), cTime.GetDay());
+		mTime.Format(L"%02d:%02d:%02d", cTime.GetHour(), cTime.GetMinute(), cTime.GetSecond());
+
+		SetDlgItemText(IDC_STATIC1, mDay);
+		SetDlgItemText(IDC_STATIC2, mTime);
+		break;
+
+	case TIMER_PAINT:
+		if (i == 0) {
+		pWnd = (CWnd*)GetDlgItem(IDC_PIC);
+		dc = pWnd->GetDC();
+		staticSize = (CStatic*)GetDlgItem(IDC_PIC);
+		staticSize->GetClientRect(rect);
+		i++;
+		}
+		switch(i)
+			case 1:
+				m_Img.Load(_T("1.jpg"));
+				m_Img.Draw(dc->m_hDC, 0, 0, m_Img.GetWidth(), m_Img.GetHeight());
+				i++;
+				break;
+
+			
+	
+		}
+		break;
+	}
 
 
 
