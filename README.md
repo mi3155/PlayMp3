@@ -1,5 +1,5 @@
 # :sparkling_heart: 비쥬얼 프로그래밍 **6팀** :sparkling_heart: 
-# **MP3 Player**
+
 
 ## :star2: 팀장 : **조재호(20151251)**   
 ## :two_men_holding_hands: 조원 : **황지환(20151257)**   , **박준호(20150503)** 
@@ -24,7 +24,7 @@
 | `12/4~17` | `발표준비 ` | `예정` |
 
 
-## :exclamation: Project :exclamation:
+## :exclamation: Project - MP3 Player :exclamation:
 
 ![image](https://user-images.githubusercontent.com/54825917/69726315-9fe15280-1163-11ea-8b76-94b373b9143e.png)
 
