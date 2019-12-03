@@ -4,7 +4,7 @@
 ## :star2: 팀장 : **조재호(20151251)**   
 ## :two_men_holding_hands: 조원 : **황지환(20151257)**   , **박준호(20150503)** 
 
-**역할분담**
+:necktie:**역할분담**:necktie:
 ==============
 | 이름 | 역할 |
 |---|:---:|
@@ -12,7 +12,7 @@
 | `황지환` | `주제 선정 및 자료조사` | 
 | `박준호` | `자료조사 및 GITHUB 작성` | 
 
-**계획서**
+:clipboard:**계획서**:clipboard:
 ===========
 
 | 날짜 | 내용 | 변경사항 |
@@ -90,6 +90,6 @@
                      MFC 사랑합니다.:gift_heart:
 
 
-출처
+:triangular_flag_on_post:출처:triangular_flag_on_post:
 ========
 <https://sijoo.tistory.com/139> - mp3 플레이어 참고
