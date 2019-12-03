@@ -1,7 +1,6 @@
 # :sparkling_heart: 비쥬얼 프로그래밍 **6팀** :sparkling_heart: 
 ## :star2: 팀장 : **조재호(20151251)** :muscle:
 ## :two_men_holding_hands: 조원 : **황지환(20151257)** :thumbsup: , **박준호(20150503)** :metal:
-## :exclamation: Project :exclamation:
 
 
 **계획서**
@@ -9,7 +8,7 @@
 
 
 
-**결과사진**
+## :exclamation: Project :exclamation:
 ===========
 
 ![image](https://user-images.githubusercontent.com/54825917/69726315-9fe15280-1163-11ea-8b76-94b373b9143e.png)
