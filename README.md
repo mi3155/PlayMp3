@@ -1,6 +1,6 @@
 # :sparkling_heart: 비쥬얼 프로그래밍 **6팀** :sparkling_heart: 
-## :star2: 팀장 : **조재호(20151251)** :muscle:
-## :two_men_holding_hands: 조원 : **황지환(20151257)** :thumbsup: , **박준호(20150503)** :metal:
+## :star2: 팀장 : **조재호(20151251)** :muscle:  (발표)
+## :two_men_holding_hands: 조원 : **황지환(20151257)**  :thumbsup: , **박준호(20150503)** :metal: ( 주제 선정 및 자료조사)
 
 
 **계획서**
