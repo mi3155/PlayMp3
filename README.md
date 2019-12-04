@@ -1,4 +1,4 @@
-# :sparkling_heart: 비쥬얼 프로그래밍 **6팀** :sparkling_heart: 
+#                               :sparkling_heart: 비쥬얼 프로그래밍 **6팀** :sparkling_heart: 
 
 
 ## :star2: 팀장 : **조재호(20151251)**   
