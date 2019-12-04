@@ -31,4 +31,5 @@
          MP3속 시각적 효과를 주어서 공감각적 효과를 증대시켰습니다.
       
 ## 예상되는 결과물
-- 
+- ![image](https://user-images.githubusercontent.com/54825917/70104156-828b1780-1680-11ea-8b6f-57651911bb78.png)
+
