@@ -29,7 +29,7 @@
 ![image](https://user-images.githubusercontent.com/54825917/69726315-9fe15280-1163-11ea-8b76-94b373b9143e.png)
 
 ## 수정사항
-- **현재시간 추가** 
+- **날짜 및 현재시간 추가** 
 
 - **그림 추가**
 
