@@ -1,6 +1,6 @@
-<center>비쥬얼 프로그래밍 **6팀**<</center>
+<center>비쥬얼 프로그래밍 **6팀**</center>
 
-
+<div style="text-align: center"> 왼쪽 </div>
 
 **역할분담**
 ==============
