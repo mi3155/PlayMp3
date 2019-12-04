@@ -1,6 +1,6 @@
-<center>비쥬얼 프로그래밍 **6팀**</center>
+비쥬얼 프로그래밍 **6팀**
 
-<div style="text-align: center"> 왼쪽 </div>
+
 
 **역할분담**
 ==============
@@ -29,4 +29,3 @@
       
 ## 예상되는 결과물
 - ![image](https://user-images.githubusercontent.com/54825917/70104156-828b1780-1680-11ea-8b6f-57651911bb78.png)
-
